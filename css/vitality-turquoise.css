@@ -35,6 +35,10 @@
   color: #fabc09;
 }
 
+#hero-details:focus {
+  color: #fabc09;
+}
+
 #aboutme-pic {
   max-height: 34em;
 }
