@@ -41,6 +41,7 @@
 
 #aboutme-pic {
   max-height: 34em;
+  box-shadow: 10px 10px 15px #888888;
 }
 
 #about {
@@ -82,6 +83,27 @@
 .contact-imgs {
   margin: 3em 0 2em 0;
 }
+
+.what-i-know {
+  font-size: 6em;
+  color: #41C4AB;
+}
+
+.what-i-know-text {
+  margin-top: .7em;
+}
+
+#what-i-know-container {
+  margin-top: 4em;
+}
+
+/*.media-links {
+  color: white;
+}
+
+.media-links:hover {
+  color: rgba(65, 196, 171, 0.5);
+}*/
 
 
 /*!
@@ -226,8 +248,8 @@ h6 {
           padding: 15px; }
           #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:focus, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:hover {
             color: #41C4AB;
-            border-radius: 0;
-            border-radius: 5px;
+            border-top: 1px solid #41C4AB;
+            border-bottom: 1px solid #41C4AB;
              } }
 
 header.masthead {
@@ -399,7 +421,7 @@ header.video {
     border: 3px solid #222; }
   .services .media .media-body {
     min-width: none;
-    padding-left: 15px; }
+    padding-left: 30px; }
     .services .media .media-body h3 {
       margin-bottom: 15px; }
     .services .media .media-body ul {
@@ -699,6 +721,7 @@ header.video {
     z-index: 0;
     position: relative;
     top: 2em;
+    color: #41C4AB;
     margin: 0;
     font-size: 0.85em;
     line-height: 1.764705882em;
