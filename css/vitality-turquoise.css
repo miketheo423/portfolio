@@ -67,6 +67,18 @@
   background-color: rgba(0,0,0,0.4);
 }
 
+#black-email {
+  color: black;
+}
+
+#black-email:hover {
+  color: rgba(0,0,0,0.6);
+}
+
+.contact-imgs {
+  margin: 3em 0 2em 0;
+}
+
 
 /*!
  * Vitality v2.0.2 (http://themes.startbootstrap.com/vitality-v2.0.2)
