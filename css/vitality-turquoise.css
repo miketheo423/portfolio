@@ -1,5 +1,12 @@
 /* Custom Changes */
 
+#logo-octo {
+  height: 350px;
+  width: 350px;
+  max-height: 350px;
+  max-width: 350px;
+}
+
 #form-btn {
   margin-top: 1em;
   background-color: #41C4AB;
