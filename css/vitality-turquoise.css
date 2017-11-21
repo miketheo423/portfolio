@@ -60,6 +60,10 @@
   color: red;
 }
 
+#wt-description {
+  background-color: rgba(0,0,0,.3);
+}
+
 #watch-details:hover {
   color: red;
 }
@@ -70,6 +74,15 @@
 
 .gray-box {
   background-color: rgba(0,0,0,0.4);
+}
+
+#skate-quote {
+  background-color: rgba(0,0,0,0.4);
+}
+
+#contact-head-space {
+  padding: 20px 0;
+  background-color: rgba(34, 34, 34, 0.9)
 }
 
 #black-email {
