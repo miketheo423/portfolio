@@ -76,6 +76,10 @@
   background-color: rgba(0,0,0,0.4);
 }
 
+#what-i-do {
+  padding: 150px 0;
+}
+
 #skateboard-section {
   padding: 200px 0;
 }
@@ -115,7 +119,7 @@
 }
 
 #footer-bigger {
-  padding-top: 20em;
+  padding-top: 15em;
   
 }
 
